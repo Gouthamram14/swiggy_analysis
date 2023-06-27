@@ -1,8 +1,8 @@
-# swiggy_analysis
+# Analyzing Swiggy
 
 
 
-## Project: Analyzing Swiggy's Delivery Data for Bangalore, India
+## Project: Analyzing Swiggy's Delivery Data for Bangalore
 
 ### Data Source
 The dataset used in this project is sourced from the iNeuron internship. It contains information about food delivery orders from Swiggy in Bangalore, India.
